@@ -2,6 +2,8 @@
 
 This is the source code for my solution to the [Airbus Ship Detection challenge](https://www.kaggle.com/c/airbus-ship-detection).
 
+Blog post about my solution here: https://zitorelova.github.io/airbus/
+
 ### Overview
 
 The challenge is an [image segmentation](https://en.wikipedia.org/wiki/Image_segmentation) problem that ran on the Kaggle platform from August to November 2018. It was hosted by Airbus, a European aerospace corporation that designs, manufactures, and sells civil and military aerospace products worldwide. In this challenge, competitors are tasked to create models that detect ships in satellite images as quickly as possible. With the growth of ship traffic, there is also an increase in the chances of infractions at sea. The work done in this competition is able to address problems such as environmentally devastating ship accidents, piracy, illegal fishing, drug trafficking, and illegal cargo movement.
